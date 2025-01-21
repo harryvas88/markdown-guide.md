@@ -23,11 +23,11 @@
 
 ### Cuadro Comparativo
 
-|Markdown| HTML |     
--------- -------
-|Mas facil de escribir y leer | facil de usar pero se puede cometer errores|
-|Menos expresivo que HTML     | Mas expresivo, etiquetado semantico|
-|Formato de escritura         | Formato de publicacion|
+| Markdown                     | HTML |     
+--------                       -------
+| Mas facil de escribir y leer  | facil de usar pero se puede cometer errores|
+| Menos expresivo que HTML      | Mas expresivo, etiquetado semantico|
+| Formato de escritura          | Formato de publicacion|
 
 
 
